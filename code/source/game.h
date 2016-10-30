@@ -1,8 +1,3 @@
-/***********************************************************************
-* COSC1076 - Advanced Programming Techniques
-* Semester 2 2015 Assignment #1
-* Start up code provided by Paul Miller
-***********************************************************************/
 #include <stdlib.h>
 #include "player.h"
 #include "time.h"
